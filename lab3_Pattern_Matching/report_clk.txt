@@ -1,0 +1,76 @@
+ 
+****************************************
+Report : clocks
+Design : PTM
+Version: K-2015.06-SP1
+Date   : Sun Apr 22 10:59:26 2018
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            30.000   {0 15}                        {clk}
+--------------------------------------------------------------------------------
+ 
+****************************************
+Report : clocks
+Design : PTM
+Version: K-2015.06-SP1
+Date   : Sun Apr 22 12:19:01 2018
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            30.000   {0 15}                        {clk}
+--------------------------------------------------------------------------------
+ 
+****************************************
+Report : clocks
+Design : PTM
+Version: K-2015.06-SP1
+Date   : Sun Apr 22 13:59:01 2018
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            30.000   {0 15}              d         {clk}
+--------------------------------------------------------------------------------
+ 
+****************************************
+Report : clocks
+Design : PTM
+Version: K-2015.06-SP1
+Date   : Sun Apr 22 16:02:44 2018
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            30.000   {0 15}                        {clk}
+--------------------------------------------------------------------------------

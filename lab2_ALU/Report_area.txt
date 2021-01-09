@@ -1,0 +1,29 @@
+ 
+****************************************
+Report : area
+Design : ALU
+Version: K-2015.06-SP1
+Date   : Thu Apr  5 10:53:05 2018
+****************************************
+
+Library(s) Used:
+
+    slow (File: /theda21_2/CBDK_IC_Contest/cur/SynopsysDC/db/slow.db)
+
+Number of ports:                          449
+Number of nets:                          2211
+Number of cells:                         1605
+Number of combinational cells:           1591
+Number of sequential cells:                 5
+Number of macros/black boxes:               0
+Number of buf/inv:                        238
+Number of references:                      45
+
+Combinational area:              20249.981940
+Buf/Inv area:                     1276.444780
+Noncombinational area:              67.896004
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                 20317.877943
+Total area:                 undefined

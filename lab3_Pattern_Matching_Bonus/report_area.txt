@@ -1,0 +1,77 @@
+ 
+****************************************
+Report : area
+Design : PTM
+Version: K-2015.06-SP1
+Date   : Sun Apr 22 10:53:40 2018
+****************************************
+
+Library(s) Used:
+
+    slow (File: /theda21_2/CBDK_IC_Contest/cur/SynopsysDC/db/slow.db)
+
+Number of ports:                           76
+Number of nets:                           171
+Number of cells:                           99
+Number of combinational cells:             64
+Number of sequential cells:                33
+Number of macros/black boxes:               0
+Number of buf/inv:                          8
+Number of references:                      20
+
+Combinational area:                639.919796
+Buf/Inv area:                       30.553200
+Noncombinational area:             826.633786
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                  1466.553582
+Total area:                 undefined
+ 
+****************************************
+Report : clocks
+Design : PTM
+Version: K-2015.06-SP1
+Date   : Sun Apr 22 10:54:32 2018
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            30.000   {0 15}                        {clk}
+--------------------------------------------------------------------------------
+ 
+****************************************
+Report : area
+Design : BON
+Version: K-2015.06-SP1
+Date   : Mon Apr 23 00:56:32 2018
+****************************************
+
+Library(s) Used:
+
+    slow (File: /theda21_2/CBDK_IC_Contest/cur/SynopsysDC/db/slow.db)
+
+Number of ports:                           76
+Number of nets:                           311
+Number of cells:                          224
+Number of combinational cells:            107
+Number of sequential cells:               115
+Number of macros/black boxes:               0
+Number of buf/inv:                         13
+Number of references:                      31
+
+Combinational area:               1028.624390
+Buf/Inv area:                       49.224599
+Noncombinational area:            2484.993580
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                  3513.617970
+Total area:                 undefined
